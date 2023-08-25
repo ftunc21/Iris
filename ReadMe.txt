@@ -1,0 +1,5 @@
+Principal Component Analysis (PCA) is a technique that allows for the reduction of high-dimensional datasets while retaining the essential information within the data. It transforms a dataset with numerous features into a lower-dimensional space, such as two or three dimensions, without significant loss of meaning.
+
+In the context of this project, the 4-dimensional feature set of the Iris flower will be reduced to 2 dimensions. This reduction process aims to perform recognition tasks without sacrificing the distinctive features of the flower. The dataset used for this purpose is the well-known "Iris" dataset, one of the most popular datasets in the field of artificial learning. The Iris dataset consists of samples from three Iris plant species (Iris setosa, Iris virginica, and Iris versicolor), with 50 examples from each species, totaling 150 samples. For each sample, four features are defined: sepal length, sepal width, petal length, and petal width.
+
+In our dataset, each plant sample represents an observation, where the species name serves as the dependent variable, and the measured 4 fundamental attributes of the plants represent the independent variables.
